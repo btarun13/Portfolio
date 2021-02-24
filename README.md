@@ -1,3 +1,3 @@
-# Portfolio
+# Tarun Naithani
 
 ## web portfolio
