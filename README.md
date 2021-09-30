@@ -1,6 +1,6 @@
 # Tarun Naithani
 
-# Hierarchical-cluster-cancer
+# [Hierarchical-cluster-cancer](https://github.com/btarun13/Hierarchical-cluster-cancer)
 
 The following project was an attempt to cluster data on cervical cancer. How many groups we can clusters, and what is the optimum number of clusters.
 
@@ -18,4 +18,5 @@ As we can see that optimal number of cluster is 2. So we base our clustering in 
 
 We get  the following this might represent cancer patients from non cancer patients
 
-[title]https://github.com/btarun13/Hierarchical-cluster-cancer
+
+
