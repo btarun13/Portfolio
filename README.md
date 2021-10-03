@@ -20,4 +20,27 @@ As we can see that optimal number of cluster is 2. So we base our clustering in 
 We get  the following this might represent cancer patients from non cancer patients
 
 
+# [Graph_path_calculate( python package)](https://github.com/btarun13/Graph_path_calculate)
+
+
+
+Calculate number of paths given length(number of edges)  of the adjaceny matrix 
+
+input is an adjacent matrix
+with calc_lenght you get a matrix with number of paths of a particular given length the co-ord of matrix
+the start and end node
+with calc_path you can query the specific number of path between start node m and end node n
+
+
+
+#  undirected graph adjacency matrix
+#   0    1    0    1    1
+#   1    0    0    1    1
+#   0    0    0    1    1
+#   1    1    1    0    0
+#   1    1    1    0    0
+
+
+![graph](https://github.com/btarun13/Graph_path_calculate/blob/main/graph_example.jpeg)
+
 
